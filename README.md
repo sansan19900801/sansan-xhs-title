@@ -61,9 +61,9 @@ npx skills add https://github.com/sansan19900801/sansan-xhs-title --skill sansan
 ## 作者与支持
 
 - 作者：sansan（[GitHub 主页](https://github.com/sansan19900801)）
-- 使用问题 / 进答疑群：扫码，或打开《答疑群说明》 https://mp.weixin.qq.com/s/3wporFEz1cGNWslmZsgPKw
+- 如需加入付费答疑群，可扫码或打开[答疑群说明](https://mp.weixin.qq.com/s/3wporFEz1cGNWslmZsgPKw)
 
-![答疑群二维码](assets/support-qr.jpg)
+![付费答疑群二维码](assets/support-qr.jpg)
 
 ## License
 
